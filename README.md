@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# I'm Viphou — Software Engineering Student & Builder
+## Hi there 👋 I'm Viphou — Software Engineering Student & Co-Founder
 
 I'm a Junior in Software Engineering at CamTech University, passionate about building products that solve real problems.  
 Currently co-founding **UniFlow**, a rental management platform designed for Cambodian landlords.
@@ -21,12 +19,7 @@ Currently co-founding **UniFlow**, a rental management platform designed for Cam
 
 ### ⚡ Fun Facts
 - I enjoy **J-pop**, especially while coding.  
-- Fitness & gym sessions are part of my routine.  
+- Love coffee, I have tried opening an outdoor cafe but failed. lol
 - Love experimenting with side projects, prototypes, and indie game dev.  
-
-### 🛠 Tech I Use
-- **Languages:** JavaScript, Python, C#, SQL  
-- **Tools:** Node.js, Express.js, PostgreSQL, React, Unity, Three.js, YOLOv8  
-- **Other interests:** Product design, BD/sales, and building startup MVPs  
 
 Thanks for checking out my profile! ✨
