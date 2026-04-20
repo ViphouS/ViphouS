@@ -8,18 +8,12 @@ Currently co-founding **UniFlow**, a rental management platform designed for Cam
 - Strengthening my full-stack skills on **JavaScript, TypeScript, and backend systems**
 - Exploring small projects in **Unity, computer vision, and 3D web**
 
-### 📚 What I'm Learning
-- **TypeScript** for more scalable full-stack development  
-- **DevOps fundamentals** (CI/CD, Docker, Linux, deployments)  
-- Better **software architecture** and clean coding practices  
-
 ### 📬 How to Reach Me
 - **Email:** viphousarun@gmail.com  
 - **LinkedIn:** [linkedin.com/in/viphousarun ](https://www.linkedin.com/in/rinviphou-sarun/)
 
 ### ⚡ Fun Facts
-- I enjoy **J-pop**, especially while coding.  
-- Love coffee, I have tried opening an outdoor cafe but failed. lol
+- Love coffee, I have tried opening an outdoor cafe that lasted 6 months. lol
 - Love experimenting with side projects, prototypes, and indie game dev.  
 
 Thanks for checking out my profile! ✨
