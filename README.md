@@ -14,14 +14,14 @@
 
 I'm **Viphou**, a software engineer and product builder from 🇰🇭 Cambodia.
 
-I enjoy turning ideas into useful products — from rental management software used by Cambodian landlords to AI-powered document systems.
+I enjoy building useful products, experimenting with AI, and working across the stack to turn ideas into things people can actually use.
 
-Currently, I'm building **JoulHub**, exploring **AI / RAG systems**, and finishing my Software Engineering degree at CamTech University.
+Currently exploring **AI / RAG systems**, building side projects, contributing to production products, and finishing my Software Engineering degree.
 
-- 🏠 Building [**JoulHub**](https://www.joulhub.com) — rental management software for Cambodian landlords
-- 🤖 Experimenting with **RAG, AI agents, and document intelligence**
+- 🤖 Building and experimenting with **RAG, AI agents & document intelligence**
 - 🧑‍💻 Working across **full-stack web development & backend systems**
-- 🧪 Usually building a side project or prototype somewhere
+- 🚀 Contributing to real products used in Cambodia
+- 🧪 Usually have another side project running somewhere
 
 <br />
 
@@ -48,32 +48,36 @@ Currently, I'm building **JoulHub**, exploring **AI / RAG systems**, and finishi
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://www.joulhub.com">
-  <img src="./assets/joulhub.gif" alt="JoulHub" width="100%" />
+<a href="https://rag-dev.rinviphou.com/">
+  <img src="./assets/rag.gif" alt="Document RAG" width="100%" />
 </a>
 
-### JoulHub
+### 🔎 Document RAG
 
-Rental management software built for Cambodian landlords — helping manage rooms, tenants, utilities, invoices, and payments in one place.
+A document intelligence system I built for experimenting with retrieval, semantic search, and AI-powered Q&A over documents.
 
-**TypeScript · Next.js · PostgreSQL**
+**Solo project**
 
-[Website →](https://www.joulhub.com)
+`Python` `RAG` `Vector Search` `PostgreSQL`
+
+[Live Demo →](https://rag-dev.rinviphou.com/)
 
 </td>
 <td width="50%" valign="top">
 
-<a href="#">
-  <img src="./assets/rag.gif" alt="Document RAG" width="100%" />
+<a href="https://transcribe.rinviphou.com/">
+  <img src="./assets/transcribe.gif" alt="Transcribe" width="100%" />
 </a>
 
-### Document RAG
+### 🎙️ Transcribe
 
-AI-powered document retrieval and Q&A system for searching and understanding internal documents, with a focus on Khmer-language workflows.
+A transcription tool I built to explore speech-to-text workflows and make converting audio into usable text simple.
 
-**Python · RAG · Vector Search · PostgreSQL**
+**Solo project**
 
-[View project →](#)
+`AI` `Speech-to-Text` `Full Stack`
+
+[Live Demo →](https://transcribe.rinviphou.com/)
 
 </td>
 </tr>
@@ -81,32 +85,40 @@ AI-powered document retrieval and Q&A system for searching and understanding int
 <tr>
 <td width="50%" valign="top">
 
-<a href="#">
-  <img src="./assets/project-03.gif" alt="Project 03" width="100%" />
+<a href="https://cambodiatrade.com/">
+  <img src="./assets/cambodiatrade.gif" alt="CambodiaTrade" width="100%" />
 </a>
 
-### Project 03
+### 🇰🇭 CambodiaTrade
 
-A full-stack product where I explored building a complete experience from frontend to backend.
+A national e-commerce marketplace connecting Cambodian businesses and products with local and international markets.
 
-**TypeScript · React · Node.js**
+I contribute to the existing platform through **maintenance, feature development, debugging, and improvements**.
 
-[View project →](#)
+**Contributor / Maintainer**
+
+`Laravel` `Vue` `MySQL`
+
+[Visit CambodiaTrade →](https://cambodiatrade.com/)
 
 </td>
 <td width="50%" valign="top">
 
-<a href="#">
-  <img src="./assets/project-04.gif" alt="Project 04" width="100%" />
+<a href="https://joulhub.com/">
+  <img src="./assets/joulhub.gif" alt="JoulHub" width="100%" />
 </a>
 
-### Project 04
+### 🏠 JoulHub
 
-An experimental project where I get to try new ideas, technologies, and things that look interesting.
+Rental management software designed for Cambodian landlords to manage properties, rooms, tenants, utilities, invoices, and payments.
 
-**React · Python · Experiments**
+I contribute to the product through **feature changes, improvements, and ongoing updates**.
 
-[View project →](#)
+**Product & Engineering Contributor**
+
+`TypeScript` `Next.js` `PostgreSQL`
+
+[Visit JoulHub →](https://joulhub.com/)
 
 </td>
 </tr>
@@ -134,9 +146,9 @@ Outside of coding:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rinviphou-sarun&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="Viphou's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="Viphou's GitHub stats" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinviphou-sarun&layout=compact&hide_title=true&hide_border=true&theme=transparent" alt="Viphou's most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_title=true&hide_border=true&theme=transparent" alt="Viphou's most used languages" />
 
 </div>
 
@@ -160,4 +172,4 @@ Outside of coding:
 
 ---
 
-<sub>Always building something.</sub>
+<sub>Building useful things, one experiment at a time.</sub>
