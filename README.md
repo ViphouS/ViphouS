@@ -56,13 +56,11 @@ Currently building **AI systems**, contributing to production software at Cambod
 
 ### 🤖 MOC AI Assistant
 
-My **Software Engineering thesis project** built for Cambodia's Ministry of Commerce — an AI-powered document assistant for retrieving information and answering questions from internal documents.
-
-Exploring **RAG, semantic search, document processing, and AI-assisted knowledge retrieval**, with a focus on Khmer and government documents.
+AI-powered document assistant for retrieving and answering questions from internal documents, with a focus on Khmer and government content.
 
 **Thesis Project · Ministry of Commerce**
 
-`Python` `RAG` `Vector Search` `PostgreSQL` `AI`
+`Python` `RAG` `Vector Search` `PostgreSQL`
 
 [Live Demo →](https://rag-dev.rinviphou.com/)
 
@@ -75,13 +73,11 @@ Exploring **RAG, semantic search, document processing, and AI-assisted knowledge
 
 ### 🎙️ DTF Live Transcribe & Translate
 
-A real-time **speech transcription and translation system** built for the Cambodia Digital Trade Forum (DTF).
-
-Speakers can broadcast live transcripts while audiences follow along in real time, with support for **English and Khmer**, translation, and read-aloud workflows.
+Real-time speech transcription and translation system supporting live English and Khmer transcripts for speakers and audiences.
 
 **Built for DTF 2026 · Ministry of Commerce**
 
-`Speech-to-Text` `Translation` `Real-time` `AI`
+`Speech-to-Text` `Translation` `Real-time AI`
 
 [Live Demo →](https://transcribe.rinviphou.com/)
 
@@ -97,15 +93,13 @@ Speakers can broadcast live transcripts while audiences follow along in real tim
 
 ### 🇰🇭 CambodiaTrade
 
-Cambodia's digital trade and e-commerce platform connecting local businesses, products, and suppliers with domestic and international markets.
+Digital trade and e-commerce platform connecting Cambodian businesses, products, and suppliers with local and international markets.
 
-I work on the existing platform through **feature development, maintenance, debugging, and ongoing improvements** as part of my work at the Ministry of Commerce.
-
-**Engineering Contributor · Ministry of Commerce**
+**Feature Development & Maintenance · Ministry of Commerce**
 
 `Laravel` `Vue` `MySQL`
 
-[Visit CambodiaTrade →](https://cambodiatrade.com/)
+[Visit →](https://cambodiatrade.com/)
 
 </td>
 <td width="50%" valign="top">
@@ -116,15 +110,13 @@ I work on the existing platform through **feature development, maintenance, debu
 
 ### 🏠 JoulHub
 
-A Cambodian startup building rental management software for landlords — bringing **properties, rooms, tenants, utilities, invoices, and payments** into one simple platform.
-
-I contribute across **product and engineering**, helping shape the product, improve features, and ship ongoing updates.
+Rental management startup helping Cambodian landlords manage properties, tenants, utilities, invoices, and payments.
 
 **Startup · Product & Engineering**
 
 `TypeScript` `Next.js` `PostgreSQL`
 
-[Visit JoulHub →](https://joulhub.com/)
+[Visit →](https://joulhub.com/)
 
 </td>
 </tr>
