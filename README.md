@@ -139,9 +139,10 @@ Outside of coding:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="Viphou's GitHub stats" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_title=true&hide_border=true&theme=transparent" alt="Viphou's most used languages" />
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=ViphouS&show_icons=true&hide_title=true&hide_border=true&theme=transparent&hide=issues&rank_icon=github"
+  alt="Viphou's GitHub stats"
+/>
 
 </div>
 
@@ -151,18 +152,16 @@ Outside of coding:
 
 <p>
   <a href="mailto:viphousarun@gmail.com">
-    <img src="https://img.shields.io/badge/Email-viphousarun%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-181717?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/rinviphou-sarun/">
-    <img src="https://img.shields.io/badge/LinkedIn-Viphou%20Sarun-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-181717?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://viphou.com">
-    <img src="https://img.shields.io/badge/Website-viphou.com-111111?style=flat-square&logo=safari&logoColor=white" />
+    <img src="https://img.shields.io/badge/viphou.com-181717?style=flat-square&logo=safari&logoColor=white" />
   </a>
 </p>
 
-<br />
-
 ---
 
-<sub>Building useful things, one experiment at a time.</sub>
+<sub>Building impactful products, one experiment at a time.</sub>
