@@ -20,11 +20,6 @@ I enjoy building useful products, experimenting with AI, and working across the 
 
 Currently building **AI systems**, contributing to production software at Cambodia's Ministry of Commerce, working on **JoulHub**, and finishing my Software Engineering degree.
 
-- 🤖 Building my thesis around **RAG & document intelligence**
-- 🎙️ Experimenting with **real-time speech, transcription & translation**
-- 🧑‍💻 Contributing to production platforms with **full-stack development**
-- 🚀 Building products and learning what it takes to grow a startup
-
 <br />
 
 ## Things I code with
@@ -54,7 +49,7 @@ Currently building **AI systems**, contributing to production software at Cambod
   <img src="./assets/rag.gif" alt="MOC AI Assistant" width="100%" />
 </a>
 
-### 🤖 MOC AI Assistant
+### MOC AI Assistant - RAG System
 
 AI-powered document assistant for retrieving and answering questions from internal documents, with a focus on Khmer and government content.
 
@@ -71,7 +66,7 @@ AI-powered document assistant for retrieving and answering questions from intern
   <img src="./assets/transcribe.png" alt="DTF Live Transcribe & Translate" width="100%" />
 </a>
 
-### 🎙️ DTF Live Transcribe & Translate
+### DTF Live Transcribe & Translate - Khmer/English Real-time Translate
 
 Real-time speech transcription and translation system supporting live English and Khmer transcripts for speakers and audiences.
 
@@ -91,7 +86,7 @@ Real-time speech transcription and translation system supporting live English an
   <img src="./assets/cambodiatrade.png" alt="CambodiaTrade" width="100%" />
 </a>
 
-### 🇰🇭 CambodiaTrade
+### CambodiaTrade.com
 
 Digital trade and e-commerce platform connecting Cambodian businesses, products, and suppliers with local and international markets.
 
@@ -108,7 +103,7 @@ Digital trade and e-commerce platform connecting Cambodian businesses, products,
   <img src="./assets/joulhub.gif" alt="JoulHub" width="100%" />
 </a>
 
-### 🏠 JoulHub
+### JoulHub
 
 Rental management startup helping Cambodian landlords manage properties, tenants, utilities, invoices, and payments.
 
