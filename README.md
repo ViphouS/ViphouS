@@ -15,7 +15,7 @@
 
 I'm **Viphou**, a software engineer and product builder from Phnom Penh, Cambodia.
 
-I lean into first-principles thinking to build products that solve actual problems. Currently, I'm developing Hybrid RAG systems as an IT Officer at Cambodia's Ministry of Commerce, scaling my SaaS JoulHub, running my freelance agency UniFy Tech Solution, and wrapping up my Software Engineering degree at CamTech.
+I lean into first-principles thinking to build products that solve actual problems. Currently, I'm developing Hybrid RAG systems as an IT Officer at Cambodia's Ministry of Commerce, scaling my SaaS JoulHub, running a freelance agency UniFy Tech Solution, and finishing my Software Engineering degree at CamTech.
 
 
 ## Things I code with
