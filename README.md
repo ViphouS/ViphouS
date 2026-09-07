@@ -154,22 +154,19 @@ Outside of coding:
     alt="GitHub stats"
   />
 </p>
-<br />
 
 ## Where to find me
 
 <p>
   <a href="mailto:viphousarun@gmail.com">
-    <img src="https://img.shields.io/badge/Email-181717?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/Email-181717?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/rinviphou-sarun/">
-    <img src="https://img.shields.io/badge/LinkedIn-181717?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-181717?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
   <a href="https://viphou.com">
-    <img src="https://img.shields.io/badge/viphou.com-181717?style=flat-square&logo=safari&logoColor=white" />
+    <img src="https://img.shields.io/badge/viphou.com-181717?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
 </p>
-
----
 
 <sub>Building impactful products, one experiment at a time.</sub>
