@@ -11,7 +11,7 @@
 </div>
 
 
-# Hey! Nice to see you. 👋
+# Hey! Welcome to my profile. 👋
 
 I'm **Viphou**, a software engineer and product builder from Phnom Penh, Cambodia.
 
