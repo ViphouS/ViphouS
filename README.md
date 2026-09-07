@@ -10,11 +10,10 @@
   />
 </div>
 
-<br />
 
 # Hey! Nice to see you. 👋
 
-I'm **Viphou**, a software engineer and product builder from 🇰🇭 Cambodia.
+I'm **Viphou**, a software engineer and product builder from Phnom Penh, Cambodia.
 
 I enjoy building useful products, experimenting with AI, and working across the stack to turn ideas into things people can actually use.
 
@@ -37,7 +36,7 @@ Currently building **AI systems**, contributing to production software at Cambod
 </p>
 
 
-## ✦ Selected work
+## ✦ Featured works
 
 <table>
 <tr>
@@ -119,16 +118,14 @@ Rental management startup helping Cambodian landlords manage properties, tenants
 
 ## A little about me
 
-I like working somewhere between **engineering and product** — understanding a problem, building something, shipping it, and seeing whether people actually use it.
+I like working somewhere between **engineering and product** understanding a problem, building something, shipping it, and seeing whether people actually use it.
 
 Outside of coding:
 
-☕ I love coffee. I once opened an outdoor café. It lasted six months. 😅
-🚀 I have a habit of turning random ideas into side projects.
-🎮 I occasionally experiment with games, computer vision, 3D, and whatever technology catches my attention.
-📚 I'm always learning something new — sometimes probably more things than I should.
-
-<br />
+☕ I love coffee. I once opened an outdoor café. It lasted six months. 😅<br>
+🚀 I have a habit of turning random ideas into side projects.<br>
+🎮 I occasionally experiment with games, computer vision, 3D, and whatever technology catches my attention.<br>
+📚 I'm always learning something new — sometimes probably more things than I should.<br>
 
 ## GitHub
 
