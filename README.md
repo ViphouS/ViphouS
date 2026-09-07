@@ -18,12 +18,12 @@ I'm **Viphou**, a software engineer and product builder from 🇰🇭 Cambodia.
 
 I enjoy building useful products, experimenting with AI, and working across the stack to turn ideas into things people can actually use.
 
-Currently exploring **AI / RAG systems**, building side projects, contributing to production products, and finishing my Software Engineering degree.
+Currently building **AI systems**, contributing to production software at Cambodia's Ministry of Commerce, working on **JoulHub**, and finishing my Software Engineering degree.
 
-- 🤖 Building and experimenting with **RAG, AI agents & document intelligence**
-- 🧑‍💻 Working across **full-stack web development & backend systems**
-- 🚀 Contributing to real products used in Cambodia
-- 🧪 Usually have another side project running somewhere
+- 🤖 Building my thesis around **RAG & document intelligence**
+- 🎙️ Experimenting with **real-time speech, transcription & translation**
+- 🧑‍💻 Contributing to production platforms with **full-stack development**
+- 🚀 Building products and learning what it takes to grow a startup
 
 <br />
 
@@ -51,16 +51,18 @@ Currently exploring **AI / RAG systems**, building side projects, contributing t
 <td width="50%" valign="top">
 
 <a href="https://rag-dev.rinviphou.com/">
-  <img src="./assets/rag.gif" alt="Document RAG" width="100%" />
+  <img src="./assets/rag.gif" alt="MOC AI Assistant" width="100%" />
 </a>
 
-### 🔎 Document RAG
+### 🤖 MOC AI Assistant
 
-A document intelligence system I built for experimenting with retrieval, semantic search, and AI-powered Q&A over documents.
+My **Software Engineering thesis project** built for Cambodia's Ministry of Commerce — an AI-powered document assistant for retrieving information and answering questions from internal documents.
 
-**Solo project**
+Exploring **RAG, semantic search, document processing, and AI-assisted knowledge retrieval**, with a focus on Khmer and government documents.
 
-`Python` `RAG` `Vector Search` `PostgreSQL`
+**Thesis Project · Ministry of Commerce**
+
+`Python` `RAG` `Vector Search` `PostgreSQL` `AI`
 
 [Live Demo →](https://rag-dev.rinviphou.com/)
 
@@ -68,16 +70,18 @@ A document intelligence system I built for experimenting with retrieval, semanti
 <td width="50%" valign="top">
 
 <a href="https://transcribe.rinviphou.com/">
-  <img src="./assets/transcribe.gif" alt="Transcribe" width="100%" />
+  <img src="./assets/transcribe.gif" alt="DTF Live Transcribe & Translate" width="100%" />
 </a>
 
-### 🎙️ Transcribe
+### 🎙️ DTF Live Transcribe & Translate
 
-A transcription tool I built to explore speech-to-text workflows and make converting audio into usable text simple.
+A real-time **speech transcription and translation system** built for the Cambodia Digital Trade Forum (DTF).
 
-**Solo project**
+Speakers can broadcast live transcripts while audiences follow along in real time, with support for **English and Khmer**, translation, and read-aloud workflows.
 
-`AI` `Speech-to-Text` `Full Stack`
+**Built for DTF 2026 · Ministry of Commerce**
+
+`Speech-to-Text` `Translation` `Real-time` `AI`
 
 [Live Demo →](https://transcribe.rinviphou.com/)
 
@@ -93,11 +97,11 @@ A transcription tool I built to explore speech-to-text workflows and make conver
 
 ### 🇰🇭 CambodiaTrade
 
-A national e-commerce marketplace connecting Cambodian businesses and products with local and international markets.
+Cambodia's digital trade and e-commerce platform connecting local businesses, products, and suppliers with domestic and international markets.
 
-I contribute to the existing platform through **maintenance, feature development, debugging, and improvements**.
+I work on the existing platform through **feature development, maintenance, debugging, and ongoing improvements** as part of my work at the Ministry of Commerce.
 
-**Contributor / Maintainer**
+**Engineering Contributor · Ministry of Commerce**
 
 `Laravel` `Vue` `MySQL`
 
@@ -112,11 +116,11 @@ I contribute to the existing platform through **maintenance, feature development
 
 ### 🏠 JoulHub
 
-Rental management software designed for Cambodian landlords to manage properties, rooms, tenants, utilities, invoices, and payments.
+A Cambodian startup building rental management software for landlords — bringing **properties, rooms, tenants, utilities, invoices, and payments** into one simple platform.
 
-I contribute to the product through **feature changes, improvements, and ongoing updates**.
+I contribute across **product and engineering**, helping shape the product, improve features, and ship ongoing updates.
 
-**Product & Engineering Contributor**
+**Startup · Product & Engineering**
 
 `TypeScript` `Next.js` `PostgreSQL`
 
