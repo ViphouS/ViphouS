@@ -137,30 +137,23 @@ Outside of coding:
 
 ## GitHub
 
-<div align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViphouS&theme=transparent"
-  width="100%"
-  alt="Viphou's GitHub activity"
-/>
-
-<br />
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ViphouS&theme=transparent"
-  width="49%"
-  alt="Repositories per language"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ViphouS&theme=transparent"
-  width="49%"
-  alt="Viphou's GitHub stats"
-/>
-
-</div>
-
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViphouS&theme=github_dark"
+    width="49%"
+    alt="Viphou's GitHub profile"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ViphouS&theme=github_dark"
+    width="24%"
+    alt="Top languages"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ViphouS&theme=github_dark"
+    width="24%"
+    alt="GitHub stats"
+  />
+</p>
 <br />
 
 ## Where to find me
