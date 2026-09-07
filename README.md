@@ -148,6 +148,6 @@ Outside of coding:
 ## Where to find me
 
 <a href="mailto:viphousarun@gmail.com">Email</a> ·
-<a href="https://www.linkedin.com/in/rinviphou-sarun/">LinkedIn</a> ·
+<a href="https://www.linkedin.com/in/rinviphou-sarun/">LinkedIn</a>
 
 <sub>Building impactful products, one experiment at a time.</sub>
