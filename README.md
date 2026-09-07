@@ -3,9 +3,11 @@
      ======================================================= -->
 
 <div align="center">
-
-<img src="./assets/hero.png" alt="Viphou Sarun — Software Engineer & Product Builder" width="100%" />
-
+  <img
+    src="https://raw.githubusercontent.com/ViphouS/ViphouS/refs/heads/main/assets/hero.png"
+    alt="Viphou — Fullstack Developer"
+    width="100%"
+  />
 </div>
 
 <br />
