@@ -68,7 +68,7 @@ AI-powered document assistant for retrieving and answering questions from intern
 <td width="50%" valign="top">
 
 <a href="https://transcribe.rinviphou.com/">
-  <img src="./assets/transcribe.gif" alt="DTF Live Transcribe & Translate" width="100%" />
+  <img src="./assets/transcribe.png" alt="DTF Live Transcribe & Translate" width="100%" />
 </a>
 
 ### 🎙️ DTF Live Transcribe & Translate
@@ -88,7 +88,7 @@ Real-time speech transcription and translation system supporting live English an
 <td width="50%" valign="top">
 
 <a href="https://cambodiatrade.com/">
-  <img src="./assets/cambodiatrade.gif" alt="CambodiaTrade" width="100%" />
+  <img src="./assets/cambodiatrade.png" alt="CambodiaTrade" width="100%" />
 </a>
 
 ### 🇰🇭 CambodiaTrade
