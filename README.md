@@ -20,7 +20,6 @@ I enjoy building useful products, experimenting with AI, and working across the 
 
 Currently building **AI systems**, contributing to production software at Cambodia's Ministry of Commerce, working on **JoulHub**, and finishing my Software Engineering degree.
 
-<br />
 
 ## Things I code with
 
@@ -37,7 +36,6 @@ Currently building **AI systems**, contributing to production software at Cambod
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-<br />
 
 ## ✦ Selected work
 
@@ -126,11 +124,8 @@ I like working somewhere between **engineering and product** — understanding a
 Outside of coding:
 
 ☕ I love coffee. I once opened an outdoor café. It lasted six months. 😅
-
 🚀 I have a habit of turning random ideas into side projects.
-
 🎮 I occasionally experiment with games, computer vision, 3D, and whatever technology catches my attention.
-
 📚 I'm always learning something new — sometimes probably more things than I should.
 
 <br />
@@ -159,6 +154,5 @@ Outside of coding:
 
 <a href="mailto:viphousarun@gmail.com">Email</a> ·
 <a href="https://www.linkedin.com/in/rinviphou-sarun/">LinkedIn</a> ·
-<a href="https://viphou.com">Website</a>
 
 <sub>Building impactful products, one experiment at a time.</sub>
