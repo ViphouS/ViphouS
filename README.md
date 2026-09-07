@@ -139,8 +139,23 @@ Outside of coding:
 
 <div align="center">
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=ViphouS&show_icons=true&hide_title=true&hide_border=true&theme=transparent&hide=issues&rank_icon=github"
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViphouS&theme=transparent"
+  width="100%"
+  alt="Viphou's GitHub activity"
+/>
+
+<br />
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ViphouS&theme=transparent"
+  width="49%"
+  alt="Repositories per language"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ViphouS&theme=transparent"
+  width="49%"
   alt="Viphou's GitHub stats"
 />
 
